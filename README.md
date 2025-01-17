@@ -1,2 +1,2 @@
-# project_on_find_your_celebrity_lookalike_with_computer_vision
+# Project on find your celebrity lookalike with computer vision
 In this project we try to find using machine learning which celebrity look like us.
